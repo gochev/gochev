@@ -1,4 +1,5 @@
-# Hello world !
+# Hello world ! 
+
 
 <img align="right" src="https://pbs.twimg.com/profile_images/1438804003140345860/RBZ1hrMO_400x400.jpg">
 
@@ -14,8 +15,14 @@ I am a Java developer first and foremost 😊, trainer 😀, consultant 😇 and
 #### Summary
 _Superhero with Java powers && Gamer && (Sci-Fi & Star Wars geek) && Bulgarian Java User Group Leader && nerds2nerds podcaster && http://java.beer guy ? this : null_
 
+## Some Stats
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gochev&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+### Top Langs
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gochev)](https://github.com/anuraghazra/github-readme-stats)
 
+### Latest tweets
 
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=gochev)](https://github.com/gazf/github-readme-twitter)
