@@ -9,10 +9,10 @@
 I am a superhero with Java powers a.k.a. Java programmer first and foremost 😊, also trainer 😀, consultant 😇 and organizer of many conferences and events 😎 e.g. the Java Beer montly events http://java.beer 🍻, the jPrime annual conference ( https://jprime.io ) 💻 and some more like jProfessionals, Java Beer Summit (http://summit.java.beer) and polyglot4dev conf (https://polyglot4dev.com). One of the leaders of the Bulgarian Java User Group (https://jug.bg) and basically a huge Java fan with love for all *.java 🙄
 
 - My persional blog is no longer maintained but I have few posts at https://dev.to/gochev 
-- My twitter handle is @gochev (https://twitter.com/gochev)
-- my linkedin can be found at https://linkedin.com/in/gochev
-- my facebook at https://facebook.com/gochev 
-- you get the important bitright ? 🧐 - gochev !
+- My twitter handle is @gochev (https://twitter.com/naydengg)
+- my linkedin can be found at https://linkedin.com/in/naydengg
+- my facebook at https://facebook.com/naydengg 
+
 
 #### Summary
 _Superhero with Java powers && Gamer && (Sci-Fi & Star Wars geek) && Bulgarian Java User Group Leader && nerds2nerds podcaster && http://java.beer guy ? this : null_
