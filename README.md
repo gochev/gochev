@@ -32,10 +32,11 @@ fullstackconf.com, aistackconf.com
 
 ### ⚡ Main superpowers
 > skills --list
-- Kotlin Compose
-- TypeScript React
-- Dart + Flutter
-- Full-stack engineering
+- Java and Spring boot mostky
+- Kotlin and Compose
+- TypeScript and JavaScript with mostly React
+- Dart , mostly wirh Flutter
+- Full-stack engineering with tons of stuff durting my 20 years of coding.
 
 
 ---
