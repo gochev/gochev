@@ -11,10 +11,6 @@ Co-leader of jug.bg, co-organizing events like jprime.io, java.beer, and DataSta
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gochev&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-### Top Langs
-
-[![Gochev's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ## Me in Icons :
 
