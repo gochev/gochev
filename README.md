@@ -6,16 +6,9 @@
 <img align="right" src="https://pbs.twimg.com/profile_images/1438804003140345860/RBZ1hrMO_400x400.jpg">
 
 ### About me:
-I am a superhero with Java powers a.k.a. Java programmer first and foremost 😊, also trainer 😀, consultant 😇 and organizer of many conferences and events 😎 e.g. the Java Beer montly events http://java.beer 🍻, the jPrime annual conference ( https://jprime.io ) 💻 and some more like jProfessionals, Java Beer Summit (http://summit.java.beer) and polyglot4dev conf (https://polyglot4dev.com). One of the leaders of the Bulgarian Java User Group (https://jug.bg) and basically a huge Java fan with love for all *.java 🙄
+Java-brewed engineer with a taste for Kotlin (Compose), a tolerance for TypeScript (React), and a soft spot for Dart + Flutter.  
+Co-leader of jug.bg, co-organizing events like jprime.io, java.beer, and DataStackConf.com, fullstackconf.com and aistackconf.com 
 
-- My persional blog is no longer maintained but I have few posts at https://dev.to/gochev 
-- My twitter handle is @gochev (https://twitter.com/naydengg)
-- my linkedin can be found at https://linkedin.com/in/naydengg
-- my facebook at https://facebook.com/naydengg 
-
-
-#### Summary
-_Superhero with Java powers && Gamer && (Sci-Fi & Star Wars geek) && Bulgarian Java User Group Leader && nerds2nerds podcaster && http://java.beer guy ? this : null_
 
 ## Random useless stats
 
@@ -27,12 +20,6 @@ _Superhero with Java powers && Gamer && (Sci-Fi & Star Wars geek) && Bulgarian J
 
 [![Gochev's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
-### Latest tweets
-
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=gochev)](https://github.com/gazf/github-readme-twitter)
-
-### Latest Medium post
-[![Omid Nikrah Medium](https://github-readme-medium.vercel.app/?username=gochev)](https://medium.com/@gochev)
 
 ## Me in Icons :
 
