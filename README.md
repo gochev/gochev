@@ -3,16 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+World+!;You+can+find+some+info+and+link+about+me+here)](https://git.io/typing-svg)
 
 
-<img align="right" src="https://pbs.twimg.com/profile_images/1438804003140345860/RBZ1hrMO_400x400.jpg">
 
 ### About me:
 Java-brewed engineer with a taste for Kotlin (Compose), a tolerance for TypeScript (React), and a soft spot for Dart + Flutter.  
 Co-leader of jug.bg, co-organizing events like jprime.io, java.beer, and DataStackConf.com, fullstackconf.com and aistackconf.com 
 
-
-## Random useless stats
-
-[![Gochev's github trophy](https://github-profile-trophy.vercel.app/?username=gochev&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gochev&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
